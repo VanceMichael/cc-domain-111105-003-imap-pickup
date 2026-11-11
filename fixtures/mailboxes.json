@@ -1,0 +1,11 @@
+{
+  "account": "synthetic-box",
+  "folder": "INBOX",
+  "oldUidValidity": 100,
+  "newUidValidity": 101,
+  "uids": [
+    7,
+    12
+  ],
+  "transport": "tcp-or-tls"
+}

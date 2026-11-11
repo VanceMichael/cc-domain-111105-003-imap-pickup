@@ -1,0 +1,7 @@
+* OK synthetic mailbox ready
+A1 OK EXAMINE completed
+* 2 FETCH (UID 7 BODY[] {217}
+From: sender@example.invalid
+To: box@example.invalid
+Message-ID: <synthetic-1@example.invalid>
+Subject: s

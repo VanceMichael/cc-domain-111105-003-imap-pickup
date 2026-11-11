@@ -1,0 +1,27 @@
+[
+  {
+    "file": "message.eml",
+    "bytes": 217,
+    "sha256": "d345a03e029fdf4960ffeba507f3a8e26755c5ea77b4c650fdab5c328c195287"
+  },
+  {
+    "file": "fetch-session.bin",
+    "bytes": 342,
+    "sha256": "682488346b9d1d0d2b585e5290cb914dad4a35395e53efb163a94a3cfe5376cf"
+  },
+  {
+    "file": "mailboxes.json",
+    "bytes": 164,
+    "sha256": "59edcc691c78470273064a1f63183b82730a4b8c909c81a4655c5ba7d34a0415"
+  },
+  {
+    "file": "migration.bin",
+    "bytes": 77,
+    "sha256": "74765996db6ad87aca6aa1156c4e8de9ae521658a67d91cfc4defa3875fb08eb"
+  },
+  {
+    "file": "partial-literal.bin",
+    "bytes": 194,
+    "sha256": "c610c11266433b3ac6d94d1cbf0c7899e80ff392e041e504d4c328fbf603a5e4"
+  }
+]

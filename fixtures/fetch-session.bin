@@ -1,0 +1,14 @@
+* OK synthetic mailbox ready
+A1 OK EXAMINE completed
+* 2 FETCH (UID 7 BODY[] {217}
+From: sender@example.invalid
+To: box@example.invalid
+Message-ID: <synthetic-1@example.invalid>
+Subject: synthetic disclosure
+Content-Type: text/plain; charset=utf-8
+
+A2 OK this is body text
+合成披露材料
+)
+* 1 EXPUNGE
+A2 OK FETCH completed
